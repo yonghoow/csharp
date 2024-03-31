@@ -20,15 +20,14 @@ namespace APICSharp
         private DataSet dataSet;
 
         public DBAction()
-        {
-            //ConnStr = "Host=your_server_address;Port=5432;Username=your_username;Password=your_password;Database=your_database_name;";
-            ConnStr = "";
+        { 
+            //ConnStr = "";
+            string ConnStr = "Host=" + GlobalVar.ServerName + ";" + "Port=" + GlobalVar.SPortNumber + ";" + "Username=" + GlobalVar.SUserName + ";" + "Password=" + GlobalVar.SUserPwd + ";" + "Database=" + GlobalVar.SDatabaseName;
           
           if (GlobalVar.ServerName != ""  & GlobalVar.SUserName != "" & GlobalVar.SUserPwd != "")
           {
             if (GlobalVar.ServerName.IndexOf("SQLEXPRESS") > -1)
             {
-                //ConnStr = "Server=" + GlobalVar.ServerName + ";" + "User ID=" + GlobalVar.SUserName + ";" + "Password=" + GlobalVar.SUserPwd + ";" + "Initial Catalog=" + "ZKBioSecurity_db";
                 ConnStr = "Host=" + GlobalVar.ServerName + ";" + "Port=5432" + "Username=" + GlobalVar.SUserName + ";" + "Password=" + GlobalVar.SUserPwd + ";" + "Database=" + "ZKBioSecurity_db";
             }
             else 
