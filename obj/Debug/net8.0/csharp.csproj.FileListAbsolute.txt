@@ -1,0 +1,15 @@
+C:\Users\hoowy\Downloads\csharp\bin\Debug\net8.0\csharp.exe
+C:\Users\hoowy\Downloads\csharp\bin\Debug\net8.0\csharp.deps.json
+C:\Users\hoowy\Downloads\csharp\bin\Debug\net8.0\csharp.runtimeconfig.json
+C:\Users\hoowy\Downloads\csharp\bin\Debug\net8.0\csharp.dll
+C:\Users\hoowy\Downloads\csharp\bin\Debug\net8.0\csharp.pdb
+C:\Users\hoowy\Downloads\csharp\obj\Debug\net8.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoowy\Downloads\csharp\obj\Debug\net8.0\csharp.AssemblyInfoInputs.cache
+C:\Users\hoowy\Downloads\csharp\obj\Debug\net8.0\csharp.AssemblyInfo.cs
+C:\Users\hoowy\Downloads\csharp\obj\Debug\net8.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\hoowy\Downloads\csharp\obj\Debug\net8.0\csharp.sourcelink.json
+C:\Users\hoowy\Downloads\csharp\obj\Debug\net8.0\csharp.dll
+C:\Users\hoowy\Downloads\csharp\obj\Debug\net8.0\refint\csharp.dll
+C:\Users\hoowy\Downloads\csharp\obj\Debug\net8.0\csharp.pdb
+C:\Users\hoowy\Downloads\csharp\obj\Debug\net8.0\csharp.genruntimeconfig.cache
+C:\Users\hoowy\Downloads\csharp\obj\Debug\net8.0\ref\csharp.dll
